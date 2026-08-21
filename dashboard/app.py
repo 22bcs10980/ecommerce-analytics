@@ -85,7 +85,6 @@ conn = get_connection()
 # =========================================================
 # HEADER
 # =========================================================
-
 st.title(
     "📊 E-Commerce Business Intelligence Platform"
 )
@@ -94,6 +93,12 @@ st.caption(
     "Executive analytics • Customer intelligence • "
     "Sales performance • Forecasting"
 )
+
+st.markdown(
+    "**Developed by Kashish Sharma**  \n"
+    "Computer Science & Engineering"
+)
+
 
 st.divider()
 
