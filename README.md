@@ -46,6 +46,9 @@ This project provides an interactive Business Intelligence dashboard for analyzi
 
 ```text
 ecommerce-analytics/
+│## 📁 Project Structure
+
+ecommerce-analytics/
 │
 ├── dashboard/
 │   └── app.py
@@ -54,16 +57,25 @@ ecommerce-analytics/
 │   └── processed/
 │       └── cleaned_ecommerce.db
 │
+├── notebooks/
+│   └── E-Commerce_Analytics.ipynb
+│
+├── reports/
+│   └── ...
+│
+├── sql/
+│   └── ...
+│
 ├── src/
 │   ├── analysis.py
 │   ├── rfm.py
-│   └── forecasting.py
+│   ├── forecasting.py
+│   ├── sql_runner.py
+│   └── verify_db.py
 │
+├── .gitignore
 ├── README.md
-│
-└── .venv/
-```
-
+└── requirements.txt
 ---
 
 # 📊 Dashboard Modules
