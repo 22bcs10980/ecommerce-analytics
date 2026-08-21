@@ -390,3 +390,26 @@ Computer Science & Engineering Graduate
 **Python • SQL • SQLite • Pandas • Streamlit • RFM • Forecasting**
 
 An end-to-end analytics platform that transforms e-commerce transaction data into actionable business insights.
+---
+
+# 📊 Dashboard Screenshots
+
+## Executive Dashboard
+
+![Dashboard 1](screenshots/dashboard_1.png.png)
+
+## Customer Segmentation
+
+![Dashboard 2](screenshots/dashboard_2.png.png)
+
+## Sales Forecast
+
+![Dashboard 3](screenshots/dashboard_3.png.png)
+
+## Dashboard View
+
+![Dashboard 4](screenshots/dashboard_4.png.png)
+
+## Dashboard View
+
+![Dashboard 5](screenshots/dashboard_5.png.png)
