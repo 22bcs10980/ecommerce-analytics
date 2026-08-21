@@ -4,6 +4,10 @@ An end-to-end **E-Commerce Business Intelligence and Analytics Platform** built 
 
 The platform transforms e-commerce transaction data into actionable insights covering sales, revenue, customers, products, geography, and forecasting.
 
+
+### 🚀 Live Dashboard
+
+[Open the Live E-Commerce Analytics Dashboard](https://22bcs10980-ecommerce-analytics-dashboardapp-ipwy23.streamlit.app/)
 ---
 
 ## 🚀 Project Overview
